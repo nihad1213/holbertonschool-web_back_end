@@ -1,5 +1,5 @@
 /* eslint-disable */
-export default function updateStudentGradeByCity() {
+export default function updateStudentGradeByCity(students, newGrades, city) {
     if (Object.getPrototypeOf(students) !== Array.prototype) {
         return [];
     }
