@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ceza"""
+"""Pythonm"""
 from typing import Callable
 
 
