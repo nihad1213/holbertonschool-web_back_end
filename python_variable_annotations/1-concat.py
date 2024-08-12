@@ -3,5 +3,5 @@
 
 
 def concat(str1: str, str2: str) -> str:
-    """Takes two str variables and returns their concatenation"""
+    """concat 2 string"""
     return str1 + str2
