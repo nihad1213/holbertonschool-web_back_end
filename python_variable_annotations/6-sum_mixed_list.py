@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""Çok bildimlik yaparsan çok düşmüşlük yaşarsın, yok derdimlik 
-yaparsan dert görünce saparsın."""
+"""Oython"""
 from typing import List, Union
 
 
